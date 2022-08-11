@@ -1,0 +1,14 @@
+to create remote repo
+git commit -m "Initial terraform Demo"
+git branch -M master
+git remote add origin git@github.com:habeeb2/accentureTerraformDemo.git
+git push -u origin master
+
+
+git init
+git add testfile1.txt
+git commit -m "second commit"
+git branch -M main
+git remote add origin git@github.com:habeeb2/terraform_Accenture_training11thAug.git
+git push -u origin main
+
